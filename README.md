@@ -11,7 +11,9 @@
    <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/automation.png" width="75px;" height="75px;" alt="Automation"/><br/><b>Automation</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
 
    <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/type%20of%20tests.png" width="75px;" height="75px;" alt="Type of tests"/><br/><b>Type of tests</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
- 
+</tr>
+
+<tr>
  <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/podcast.jpg" width="75px;" height="75px;" alt="Podcast"/><br/><b>Podcast</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
  
  <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/tools.png" width="75px;" height="75px;" alt="Tools"/><br/><b>Tools</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
@@ -21,10 +23,6 @@
  <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/learning%20group.jfif" width="75px;" height="75px;" alt="Learning group"/><br/><b>Learning group</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
   
   </tr>
- 
+
  </table>
-<<<<<<< HEAD
-</center>
-=======
-</center>
->>>>>>> b9b79c9447722082d58a33c88c672998908f686c
+
