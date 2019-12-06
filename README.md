@@ -14,11 +14,11 @@
  
  <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/podcast.jpg" width="75px;" height="75px;" alt="Podcast"/><br/><b>Podcast</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
  
- <td align="center"><a href="./"><img src="" width="75px;" height="75px;" alt="Tools"/><br/><b>Tools</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
+ <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/tools.png" width="75px;" height="75px;" alt="Tools"/><br/><b>Tools</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
  
- <td align="center"><a href="./"><img src="" width="75px;" height="75px;" alt="Jobs"/><br/><b>Jobs</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
+ <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/jobs.png" width="75px;" height="75px;" alt="Jobs"/><br/><b>Jobs</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
  
- <td align="center"><a href="./"><img src="" width="75px;" height="75px;" alt="Learning group"/><br/><b>Learning group</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
+ <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/learning%20group.jfif" width="75px;" height="75px;" alt="Learning group"/><br/><b>Learning group</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
   
   </tr>
  
