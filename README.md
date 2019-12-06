@@ -9,7 +9,7 @@
    <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/learning.png" width="75px;" height="75px;" alt="Learning"/><br/><b>Learning</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
    
    <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/automation.png" width="75px;" height="75px;" alt="Automation"/><br/><b>Automation</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
-
+   
    <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/type%20of%20tests.png" width="75px;" height="75px;" alt="Type of tests"/><br/><b>Type of tests</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
  
  <td align="center"><a href="./"><img src="https://github.com/EloPo/Quality-guide/blob/master/image/podcast.jpg" width="75px;" height="75px;" alt="Podcast"/><br/><b>Podcast</b></a><br /><sub><a href="./">Getting Started</a></sub></td>
