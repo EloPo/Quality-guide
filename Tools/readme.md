@@ -29,6 +29,14 @@ Cypress[https://www.cypress.io/]
 **Java**
 
 JUnit[https://junit.org/junit4/]
+https://testng.org/
+http://arquillian.org/
+http://rest-assured.io/
+https://spring.io/guides/gs/testing-web/
+
+** Cloud **
+AWS Locally https://github.com/localstack/localstack
+
 
 
 **Ruby**
